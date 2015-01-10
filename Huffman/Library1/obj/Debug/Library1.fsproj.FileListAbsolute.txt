@@ -1,0 +1,14 @@
+C:\Users\juegest\documents\visual studio 2013\Projects\Huffman\Library1\obj\Debug\Library1.fsprojResolveAssemblyReference.cache
+C:\Users\juegest\documents\visual studio 2013\Projects\Huffman\Library1\bin\Debug\Library1.XML
+C:\Users\juegest\documents\visual studio 2013\Projects\Huffman\Library1\bin\Debug\Library1.dll
+C:\Users\juegest\documents\visual studio 2013\Projects\Huffman\Library1\bin\Debug\Library1.pdb
+C:\Users\juegest\documents\visual studio 2013\Projects\Huffman\Library1\bin\Debug\FSharp.Core.dll
+C:\Users\juegest\documents\visual studio 2013\Projects\Huffman\Library1\bin\Debug\Huffman.exe
+C:\Users\juegest\documents\visual studio 2013\Projects\Huffman\Library1\bin\Debug\nunit.framework.dll
+C:\Users\juegest\documents\visual studio 2013\Projects\Huffman\Library1\bin\Debug\Huffman.pdb
+C:\Users\juegest\documents\visual studio 2013\Projects\Huffman\Library1\bin\Debug\Huffman.xml
+C:\Users\juegest\documents\visual studio 2013\Projects\Huffman\Library1\bin\Debug\FSharp.Core.xml
+C:\Users\juegest\documents\visual studio 2013\Projects\Huffman\Library1\bin\Debug\nunit.framework.xml
+C:\Users\juegest\documents\visual studio 2013\Projects\Huffman\Library1\bin\Debug\ru\FSharp.Core.resources.dll
+C:\Users\juegest\documents\visual studio 2013\Projects\Huffman\Library1\obj\Debug\Library1.dll
+C:\Users\juegest\documents\visual studio 2013\Projects\Huffman\Library1\obj\Debug\Library1.pdb

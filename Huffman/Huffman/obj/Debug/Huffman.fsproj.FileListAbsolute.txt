@@ -1,0 +1,9 @@
+C:\Users\juegest\documents\visual studio 2013\Projects\Huffman\Huffman\bin\Debug\Huffman.exe.config
+C:\Users\juegest\documents\visual studio 2013\Projects\Huffman\Huffman\bin\Debug\Huffman.XML
+C:\Users\juegest\documents\visual studio 2013\Projects\Huffman\Huffman\bin\Debug\Huffman.exe
+C:\Users\juegest\documents\visual studio 2013\Projects\Huffman\Huffman\bin\Debug\Huffman.pdb
+C:\Users\juegest\documents\visual studio 2013\Projects\Huffman\Huffman\bin\Debug\FSharp.Core.dll
+C:\Users\juegest\documents\visual studio 2013\Projects\Huffman\Huffman\bin\Debug\FSharp.Core.xml
+C:\Users\juegest\documents\visual studio 2013\Projects\Huffman\Huffman\bin\Debug\ru\FSharp.Core.resources.dll
+C:\Users\juegest\documents\visual studio 2013\Projects\Huffman\Huffman\obj\Debug\Huffman.exe
+C:\Users\juegest\documents\visual studio 2013\Projects\Huffman\Huffman\obj\Debug\Huffman.pdb
